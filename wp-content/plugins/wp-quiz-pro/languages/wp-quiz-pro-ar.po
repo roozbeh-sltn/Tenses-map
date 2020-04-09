@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Quiz Pro 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-quiz-pro\n"
+"POT-Creation-Date: 2017-04-28 15:42:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-08-29 16:43+0000\n"
+"Last-Translator: SAID MOULLA\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: inc/class-page-email-subs.php:176
+msgid "EmailsSubscribers"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: wp-quiz-pro.php:160
+msgid "WP Quiz Pro"
+msgstr ""
+
+#: wp-quiz-pro.php:405
+msgid "Traditional Skin"
+msgstr ""
+
+#: wp-quiz-pro.php:406
+msgid "Modern Flat Skin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://mythemeshop.com/plugins/wp-quiz-pro/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MyThemeShop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mythemeshop.com/"
+msgstr ""
+
+#: inc/class-flip-quiz.php:79
+msgid "Click to Flip"
+msgstr "اضغط لقلب الصورة"
+
+#: inc/class-page-config.php:250 wp-quiz-pro.php:380
+msgid "Randomize Questions"
+msgstr "عرض الأسئلة بعشوائية"
+
+#: inc/class-page-config.php:258 wp-quiz-pro.php:381
+msgid "Randomize Answers"
+msgstr "عرض الإجابات بعشوائية"
+
+#: inc/class-page-config.php:292 wp-quiz-pro.php:384
+msgid "Show embed code toggle"
+msgstr "عرض شفرة تضمين الإختبار في مواقع أخرى"
+
+#: inc/class-page-config.php:307 inc/class-wp-quiz-pro.php:170
+#: wp-quiz-pro.php:247
+msgid "VK"
+msgstr "موقع VK"
+
+#: inc/class-page-config.php:312
+msgid ""
+"Enable or disable Open Graph and Twitter Cards meta tags in single quiz head "
+"tag."
+msgstr ""
+"تفعيل أو تعطيل علامات الميتا Open Graph و Twitter Cards في صفحة الإختبار."
+
+#: inc/class-page-config.php:348
+msgid "applies to trivia quiz, multiple page layout"
+msgstr "يطبق على اختبارات Trivia، في حالة العرض المتعدد الصفحات"
+
+#: inc/class-page-config.php:354
+msgid "applies to trivia or personality quiz, single page layout"
+msgstr "يطبق على اختبارات الشخصية و Trivia، في حالة العرض في صفحة واحدة"
+
+#: inc/class-page-config.php:362
+msgid "applies to trivia or personality quiz"
+msgstr "يطبق على اختبارات من نوع Trivia واختبارات الشخصية"
+
+#: inc/class-page-email-subs.php:36
+msgid "Email Subscriber deleted."
+msgstr "تم حذف بريد المشترك."
+
+#: inc/class-page-email-subs.php:37
+msgid "Email Subscriber updated."
+msgstr "تم تحديث بريد المشترك."
+
+#: inc/class-page-email-subs.php:38
+msgid "Email Subscriber not added."
+msgstr "لم يتم إضافة بريد المشترك."
+
+#: inc/class-page-email-subs.php:39
+msgid "Email Subscriber not updated."
+msgstr "لم يتم تحديث بريد المشترك."
+
+#: inc/class-page-email-subs.php:40
+msgid "Email Subscribers deleted."
+msgstr "تم حذف بريد المشتركين."
+
+#: inc/class-page-email-subs.php:61
+msgid "No Email Subscriber."
+msgstr "لا يوجد أي بريد مشترك."
+
+#: inc/class-page-players.php:38
+msgid "Player not added."
+msgstr "لم يتم إضافة الطالب."
+
+#: inc/class-page-players.php:39
+msgid "Player not updated."
+msgstr "لم يتم تحديث الطالب."
+
+#: inc/class-page-players.php:61
+msgid "No Player."
+msgstr "لا يوجد أي طالب."
+
+#: inc/class-swiper-quiz.php:55
+msgid "This is a swiper quiz, swipe right for yes, swipe left for no. "
+msgstr ""
+"هذا الإختبار من نوع خاص، قم بجر الصورة إلى اليمين للإجابة ب:نعم، ولليسار ب:"
+"لا. "
+
+#: inc/class-trivia-quiz.php:208
+msgid "This is a timed quiz. You will be given "
+msgstr "هذا الإختبار مقيد بمدة زمنية ستعطى لك، اغتنمها جيدا "
+
+#: inc/class-trivia-quiz.php:208
+msgid " seconds per question. Are you ready?"
+msgstr " ثواني لكل سؤال، هل أنت موافق؟"
+
+#: inc/class-wp-quiz-pro.php:189
+msgid "Just tell us who you are to view your results !"
+msgstr "أخبرنا عن نفسك لتشاهدة نتيجة اختبارك!"
+
+#: inc/class-wp-quiz-pro.php:196
+msgid "Please share this quiz to view your results . "
+msgstr "الرجاء مشاركة الإختبار على صفحاتك لتتمكن من مشاهدة النتيجة . "
+
+#: inc/class-wp-quiz-pro.php:214
+msgid "Powered by WP Quiz Pro"
+msgstr "بواسطة WP Quiz Pro"
+
+#: inc/class-wp-quiz-pro.php:243
+msgid "Toggle embed code"
+msgstr "شيفرة تضمين الإختبار خارجيا"
+
+#: wp-quiz-pro.php:162
+msgctxt "name admin bar"
+msgid "WP Quiz Pro"
+msgstr "WP Quiz Pro"
+
+#: wp-quiz-pro.php:171
+msgid "WP Quiz not found in Trash."
+msgstr "WP Quiz غير موجودة في سلة المهملات."
+
+#: wp-quiz-pro.php:177
+msgid "Holds the quizzes and their data."
+msgstr "إخفاء الإختبارات وبياناتها."
+
+#: wp-quiz-pro.php:206
+msgctxt "metabox title"
+msgid "Quiz"
+msgstr "الإختبار"
+
+#: wp-quiz-pro.php:226
+msgid "Swiper"
+msgstr "اختبار سحب الصور"
+
+#: wp-quiz-pro.php:227
+msgid "Flip Cards"
+msgstr "اختبار قلب الصور"
+
+#: wp-quiz-pro.php:356
+msgctxt "input label"
+msgid "Front Image"
+msgstr "صورة الواجهة"
+
+#: wp-quiz-pro.php:357
+msgctxt "input label"
+msgid "Back Image"
+msgstr "الصورة الخلفية"
+
+#: wp-quiz-pro.php:358
+msgctxt "input label"
+msgid "Back Image Description"
+msgstr "وصف الصورة الخلفية"
+
+#: wp-quiz-pro.php:361
+msgctxt "input label"
+msgid "Image Credit"
+msgstr "حقوق الصورة"
+
+#: wp-quiz-pro.php:362
+msgctxt "input label"
+msgid "Media Type"
+msgstr "نوع الوسائط المتعددة"
+
+#: wp-quiz-pro.php:363
+msgctxt "input label"
+msgid "Youtube/Vimeo/Custom URL"
+msgstr "يوتيوب / Vimeo / رابط مخصص"
+
+#: wp-quiz-pro.php:364
+msgctxt "input label"
+msgid "Image Placeholder"
+msgstr "النص مكان الصورة"
+
+#: wp-quiz-pro.php:366
+msgctxt "input label"
+msgid "Minimum Correct"
+msgstr "أقل عدد من الإجابات الصحيحة"
+
+#: wp-quiz-pro.php:367
+msgctxt "input label"
+msgid "Maximum Correct"
+msgstr "أعلى عدد من الإجابات الصحيحة"
+
+#: wp-quiz-pro.php:368
+msgctxt "input label"
+msgid "Minimum Score"
+msgstr "أقل نتيجة"
+
+#: wp-quiz-pro.php:369
+msgctxt "input label"
+msgid "Maximum Score"
+msgstr "أعلى نتيجة"
+
+#: wp-quiz-pro.php:373
+msgid "(Association: 0-no, 1-normal, 2-strong)"
+msgstr "(شرح: 0-لا، 1-عادي، 2-قوي)"
+
+#: wp-quiz-pro.php:377
+msgid "Video/Custom Embed"
+msgstr "فيديو / تضمين مخصص"
+
+#: wp-quiz-pro.php:378
+msgid "No Media"
+msgstr "لا توجد وسائط"
+
+#: wp-quiz-pro.php:387
+msgid "(applies to multiple page layout)"
+msgstr "(يطبق على طريقة عرض متعدد الصفحات)"
+
+#: wp-quiz-pro.php:396
+msgid "Ads after every nth question"
+msgstr "إعلان بعد كل x سؤال"
+
+#: wp-quiz-pro.php:399
+msgid "comma separated  codes"
+msgstr "قم بفصل شيفرة كل إعلان بفاصلة عند وضع إعلانات مختلفة"
+
+#: wp-quiz-pro.php:413
+msgid "Select Profile"
+msgstr "اختر ملف شخصي"
+
+#: wp-quiz-pro.php:414
+msgid "User Profile Image"
+msgstr "صورة ملف العضو"
+
+#: wp-quiz-pro.php:415
+msgid "Friend Profile Image"
+msgstr "صورة ملف الصديق"
+
+#: wp-quiz-pro.php:417
+msgid "Animation Out"
+msgstr "تأثير حركة الإختفاء"
+
+#: wp-quiz-pro.php:418
+msgid "Quiz Size"
+msgstr "حجم الإختبار"
+
+#: wp-quiz-pro.php:430
+msgid "Preview Video/Media"
+msgstr "عرض الفيديو/الوسائط"
+
+#: wp-quiz-pro.php:431
+msgid "Preview/Position"
+msgstr "عرض/الوظيفة"
+
+#: wp-quiz-pro.php:432
+msgid "Preview Image and set profile position"
+msgstr "عرض الصورة وإعداد موضع البروفايل"
+
+#: wp-quiz-pro.php:433
+msgid "image border radius"
+msgstr "انحناء حواف الصورة"
+
+#: wp-quiz-pro.php:435
+msgid "Please add the Results and save the draft before adding questions"
+msgstr "المرجوا إضافة النتائج وحفظها كمسودة قبل إضافة الأسئلة"
+
+#: wp-quiz-pro.php:436
+msgid ""
+"Possible name substiution (%%userfirstname%% = user first name, %"
+"%lastfirstname%% = user last name, %%friendfirstname%% = friend first name, %"
+"%friendfirstname%% = friend last name)"
+msgstr ""
+"إمكانيات تغيير الإسم ( %%userfirstname%% = الإسم الشخصي / %%lastfirstname%% "
+"= الإسم العائلي / %%friendfirstname%% = الإسم الشخصي لصديق / %"
+"%friendfirstname%% = الإسم العائلي لصديق )"
+
+#: wp-quiz-pro.php:437
+msgid ""
+"Friend profile image will only work if the current quiz player/user has "
+"Facebook friends that has also authorized your app id to read their friends "
+"list."
+msgstr ""
+"صورة ملف الصديق ستعمل فقط إذا كان الطالب الذي يجتاز الإختبار لديه أصدقاء على "
+"فيسبوك، إلى جانب تصريحه للطبيق لقراءة قائمة أصدقائه."
+
+#: wp-quiz-pro.php:451
+msgctxt "new quiz title placeholder"
+msgid "Quiz Title"
+msgstr "عنوان الإختبار"
+
+#: wp-quiz-pro.php:668 wp-quiz-pro.php:674
+msgid "Cheating, huh?"
+msgstr "تغش، هاه ؟"
+
+#: wp-quiz-pro.php:1216
+msgid ""
+"WP Quiz Pro requires PHP version 5.4.0 with spl extension or greater and "
+"WordPress 3.4 or greater."
+msgstr ""
+"إضافة WP Quiz Pro تتطلب النسخة 5.4.0 من لغة الPHP أو أعلى مع موديول \"spl\" "
+"ونسخة الووردبريس 3.4 فأحدث."
+
+#: wp-quiz-pro.php:1222
+msgid "Please deactivate WP Quiz plugin first to use the Premium features!"
+msgstr "المرجوا تعطيل إضافة WP Quiz اولا لاستخدام الخصائص المتقدمة!"
+
+#: wp-quiz-pro.php:1255
+msgid "WP Quiz Pro Notice: "
+msgstr "تنبيه إضافة WP Quiz Pro: "
+
+#: wp-quiz-pro.php:1255
+msgid ""
+"PHP imagick extension is missing, please install this extention to enable "
+"the Facebook Quiz type."
+msgstr ""
+"موديول PHP imagick مفقود في استضافتك، الرجاء تثبيثه لتتمكن من تفعيل "
+"\"اختبارات الفيسبوك\"."
+
+#. Description of the plugin/theme
+msgid ""
+"WP Quiz Pro lets you easily add polished, responsive and modern quizzes to "
+"your site or blog! Increase engagement and shares while building your "
+"mailing list! WP Quiz Pro makes it easy!"
+msgstr ""
+"تمكن إضافة WP Quiz Pro بكل سهولة من إضافة إختبارات حديثة، جميلة ومتجاوبة على "
+"موقعك أو مدونتك!\n"
+"زيادة عدد المشاركات والمشتركين عند بناء قائمتك البريدية، كل ذلك تجعله إضافة  "
+"WP Quiz Pro بسيطا!"
+
+#: inc/class-page-config.php:275
+msgid "Aweber"
+msgstr "دمة Aweber"
+
+#: inc/class-page-config.php:304
+msgid "Aweber Details"
+msgstr "تفاصيل Aweber"
+
+#: inc/class-page-config.php:313
+msgid "To connect your Aweber account:"
+msgstr "لإضافة حسابك على Aweber:"
+
+#: inc/class-page-config.php:316
+#, php-format
+msgid ""
+"<span>1.</span> <a href=\"%s\" target=\"_blank\">Click here</a> <span>to "
+"open the authorization page and log in.</span>"
+msgstr ""
+"<span>1.</span> <a href=\"%s\" target=\"_blank\">اضغط هنا</a> <span>لفتح "
+"صفحة التصريح وتسجيل الدخول.</span>"
+
+#: inc/class-page-config.php:317
+msgid ""
+"<span>2.</span> Copy and paste the authorization code in the field below."
+msgstr "<span>2.</span> قم بنسخ ولصق رمز التصريح في الخانة أسفله."
+
+#: inc/class-page-config.php:330
+msgid "Your Aweber Account is connected."
+msgstr "تم ربط حسابك Aweber."
+
+#: inc/class-page-config.php:331
+msgid ""
+"<a href=\"#\" class=\"aweber_disconnect\">Click here</a> <span>to disconnect."
+"</span>"
+msgstr ""
+"<a href=\"#\" class=\"aweber_disconnect\">اضغط هنا</a> <span>لتسجيل الخروج.</"
+"span>"
+
+#: inc/class-page-support.php:140
+#, php-format
+msgid ""
+"We offer technical support through our %s. Please <strong>copy and paste the "
+"following information in your ticket</strong> when contacting support:"
+msgstr ""
+"نحن نقدم الدعم الفني من خلال %s. يرجى <strong> نسخ المعلومات التالية ولصقها "
+"في تذكرتك </strong> عند الاتصال بالدعم:"
+
+#: inc/class-page-support.php:140
+msgid "Support Ticket System"
+msgstr "نظام تذاكر الدعم"
+
+#: inc/class-page-support.php:162
+msgid "Copy Data for Support Request"
+msgstr "اضغط هنا لنسخ كافة البيانات"
+
+#: inc/class-page-support.php:167
+msgid "Open Support Forum"
+msgstr "فتح منتدى الدعم"
+
+#: inc/class-page-support.php:222
+msgid "Environment"
+msgstr "بيئة العمل"
+
+#: inc/class-page-support.php:226
+msgid "WordPress"
+msgstr "ووردبريس"
+
+#: inc/class-page-support.php:230
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: inc/class-page-support.php:234
+msgid "Theme"
+msgstr "القالب"
+
+#: inc/ Unknown
+msgid "None"
+msgstr "لاشيء"
+
+#: inc/ Unknown
+msgid "Import Demo"
+msgstr "استيراد المثال"
+
+#: inc/ Unknown
+msgid "Import Quiz"
+msgstr "استيراد الإختبار"
+
+#: inc/ Unknown
+msgid "Export Quiz"
+msgstr "تصدير الإختبار"
+
+#: inc/ Unknown
+msgid "Export Settings"
+msgstr "تصدير الإعدادات"
+
+#: wp-quiz-pro.php:159 wp-quiz-pro.php:161
+msgid "WP Quiz"
+msgstr "مدير الإختبارات WP Quiz"
+
+#: wp-quiz-pro.php:517
+msgid "Plays"
+msgstr "مرات الإجتياز"
+
+#: inc/class-fb-quiz.php:30
+msgid "Analyzing profile ..."
+msgstr "تحليل البروفايل (Analyzing profile ...)"
+
+#: inc/class-page-config.php:108
+msgid "Google Analytics"
+msgstr "إحصائيات غوغل (Google Analytics)"
+
+#: inc/class-page-config.php:195
+msgid "Tracking ID"
+msgstr "رقم التتبع (Tracking ID)"
+
+#: inc/class-page-config.php:209
+msgid "MailChimp"
+msgstr "خدمة MailChimp"
+
+#: inc/class-page-config.php:210
+msgid "GetResponse"
+msgstr "خدمة GetResponse"
+
+#: inc/class-admin.php:137
+msgid "Get Support for WP Quiz Pro"
+msgstr "أحصل على الدعم الفني لإضافة WP Quiz Pro"
+
+#: inc/class-admin.php:138
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: inc/class-admin.php:19 inc/class-admin.php:140
+msgid "Technical Support"
+msgstr "الدعم الفني"
+
+#: inc/class-page-config.php:215 inc/class-page-config.php:227
+msgid "API key"
+msgstr "مفتاح API"
+
+#: inc/class-page-config.php:221
+msgid "List ID"
+msgstr "رقم اللائحة (List ID)"
+
+#: inc/class-page-config.php:233
+msgid "Campaign Name"
+msgstr "إم الحملة"
+
+#: inc/class-page-config.php:266 wp-quiz-pro.php:382
+msgid "Restart Questions"
+msgstr "إعادة الأسئلة"
+
+#: inc/class-page-config.php:274 wp-quiz-pro.php:383
+msgid "Promote the plugin"
+msgstr "ترويج الإضافة"
+
+#: inc/class-page-config.php:282
+msgid " and get your referral ID (username) if you don't have it already!"
+msgstr " واحصل على معرف الإحالة الخاص بك (username) إن لم يكن لديك مسبقا!"
+
+#: inc/class-page-config.php:282
+msgid "Check your affiliate earning by following "
+msgstr "تحقق من أرباح ترويجك باتباع "
+
+#: inc/class-page-config.php:282
+msgid "this link"
+msgstr "هذا الرابط"
+
+#: inc/class-page-config.php:286
+msgid "MyThemeShop username"
+msgstr "اسم المستخدم لحسابك MyThemeShop"
+
+#: inc/class-page-config.php:320
+msgid "Facebook App ID"
+msgstr "معرف تطبيق الفيسبوك (App ID)"
+
+#: inc/class-page-email-subs.php:198
+msgid "Email Subscribers"
+msgstr "بريد المشتركين"
+
+#: inc/class-page-import-export.php:45
+msgid "Quiz imported successfully"
+msgstr "تم استيراد الإختبار بنجاح"
+
+#: inc/class-page-import-export.php:47
+msgid "Failed to import Quiz"
+msgstr "فشل في استيراد الإختبار"
+
+#: inc/class-page-import-export.php:106
+msgid "Import and Export Quizzes"
+msgstr "استيراد وتصدير الإختبارات"
+
+#: inc/class-page-import-export.php:203
+msgid "No Quiz to Export"
+msgstr "لا توجد اختبارات للتصدير"
+
+#: inc/class-page-import-export.php:264
+msgid "Import Quizzes"
+msgstr "استيراد الإختبارات"
+
+#: inc/class-page-players.php:35
+msgid "Player added."
+msgstr "تم إضافة الطالب."
+
+#: inc/class-page-players.php:36
+msgid "Player deleted."
+msgstr "تم حذف الطالب."
+
+#: inc/class-page-players.php:37
+msgid "Player updated."
+msgstr "تم تحديث الطالب."
+
+#: inc/class-page-players.php:98
+msgid "User"
+msgstr "المستخدم"
+
+#: inc/class-page-players.php:139
+msgid "Username name"
+msgstr "إسم المستخدم"
+
+#: inc/class-wp-quiz-pro.php:167
+msgid "Google+"
+msgstr "غوغل بلاس"
+
+#: inc/class-wp-quiz-pro.php:271
+msgid "You voted"
+msgstr "تم تصويتك"
+
+#: wp-quiz-pro.php:164
+msgid "Search Quizzes"
+msgstr "البحث عن اختبارات"
+
+#: wp-quiz-pro.php:170
+msgid "No Quizzes found."
+msgstr "لم يتم إيجاد أية اختبارات."
+
+#: wp-quiz-pro.php:172
+msgid "Parent Quiz"
+msgstr "الإختبار الأب"
+
+#: wp-quiz-pro.php:224
+msgid "Trivia"
+msgstr "اختبار الإختيارات"
+
+#: wp-quiz-pro.php:225
+msgid "Personality"
+msgstr "اختبار الشخصية"
+
+#: wp-quiz-pro.php:351
+msgctxt "input label"
+msgid "Question Title"
+msgstr "عنوان السؤال"
+
+#: wp-quiz-pro.php:352
+msgctxt "input label"
+msgid "Result Title"
+msgstr "عنوان النتيجة"
+
+#: wp-quiz-pro.php:353
+msgctxt "input label"
+msgid "Answer Title"
+msgstr "عنوان الإجابة"
+
+#: wp-quiz-pro.php:354
+msgctxt "input label"
+msgid "Explanation"
+msgstr "الشرح والتوضيح"
+
+#: wp-quiz-pro.php:355
+msgctxt "input label"
+msgid "Image"
+msgstr "الصورة"
+
+#: inc/class-page-config.php:479
+msgid "External Font"
+msgstr "خط خارجي"
+
+#: inc/ Unknown
+msgid "Subscribe Box Title"
+msgstr "عنوان صندوق الإشتراك"
+
+#: wp-quiz-pro.php:359
+msgctxt "input label"
+msgid "Votes Up"
+msgstr "تصويت إيجابي"
+
+#: wp-quiz-pro.php:360
+msgctxt "input label"
+msgid "Votes Down"
+msgstr "تصويت سلبي"
+
+#: wp-quiz-pro.php:365
+msgctxt "input label"
+msgid "Is Correct Answer"
+msgstr "هل هي إجابة صحيحة"
+
+#: wp-quiz-pro.php:370
+msgctxt "input label"
+msgid "Description"
+msgstr "الوصف"
+
+#: wp-quiz-pro.php:371
+msgctxt "input label"
+msgid "Short Description"
+msgstr "وصف قصير"
+
+#: wp-quiz-pro.php:372
+msgctxt "input label"
+msgid "Result Points"
+msgstr "نقط النتيجة"
+
+#: wp-quiz-pro.php:374
+msgctxt "input label"
+msgid "Long Description"
+msgstr "الوصف الطويل"
+
+#: wp-quiz-pro.php:410
+msgid "Result title color"
+msgstr "لون عنوان النتيجة"
+
+#: wp-quiz-pro.php:411
+msgid "Result title font size"
+msgstr "حجم خط عنوان النتيجة"
+
+#: wp-quiz-pro.php:412
+msgid "Result title font"
+msgstr "خط عنوان النتيجة"
+
+#: wp-quiz-pro.php:429
+msgid "Preview Image"
+msgstr "عرض الصورة"
+
+#: inc/class-page-config.php:362
+msgid "Force action to see the results"
+msgstr "فرض إجراء للاطلاع على النتائج"
+
+#: wp-quiz-pro.php:389
+msgid "Show right/wrong answers at the end of quiz"
+msgstr "عرض الإجابات الصحيحة/الخاطئة عند نهاية الإختبار"
+
+#: wp-quiz-pro.php:390
+msgid "(applies to single page layout)"
+msgstr "(يطبق فقط على طريقة عرض الأسئلة في صفحة واحدة)"
+
+#: wp-quiz-pro.php:391
+msgid "Force action to see results"
+msgstr "فرض إجراء للاطلاع على النتائج"
+
+#: wp-quiz-pro.php:407
+msgid "Progress bar color"
+msgstr "لون شريط التقدم"
+
+#: wp-quiz-pro.php:408
+msgid "Question font color"
+msgstr "لون خط السؤال"
+
+#: wp-quiz-pro.php:409
+msgid "Question background color"
+msgstr "لون خلفية السؤال"
+
+#: wp-quiz-pro.php:416
+msgid "Animation In"
+msgstr "تأثير حركة الظهور"
+
+#: inc/class-page-players.php:40
+msgid "Players deleted."
+msgstr "تم حذف الطلاب."
+
+#: inc/class-page-players.php:191 inc/class-page-players.php:211
+#: wp-quiz-pro.php:578
+msgid "Players"
+msgstr "الطلاب"
+
+#: wp-quiz-pro.php:163
+msgid "All Quizzes"
+msgstr "جميع الإختبارات"
+
+#: wp-quiz-pro.php:398
+msgid "Ad Codes"
+msgstr "أكواد الإعلان"
+
+#: wp-quiz-pro.php:400
+msgid "Customize Layout and Colors"
+msgstr "تخصيص التصميم والألوان"
+
+#: wp-quiz-pro.php:401
+msgid "Questions layout"
+msgstr "طريقة عرض الأسئلة"
+
+#: wp-quiz-pro.php:403
+msgid "Mutiple pages"
+msgstr "متعدد الصفحات"
+
+#: wp-quiz-pro.php:419
+msgid "Custom"
+msgstr "مخصص"
+
+#: wp-quiz-pro.php:420
+msgid "Custom Size"
+msgstr "تخصيص الحجم"
+
+#: wp-quiz-pro.php:421
+msgid "Width:"
+msgstr "العرض:"
+
+#: wp-quiz-pro.php:422
+msgid "Height:"
+msgstr "الإرتفاع:"
+
+#: wp-quiz-pro.php:423
+msgid "set width and height in px"
+msgstr "قم بإعداد العرض والإرتفاع بالبيكسل px"
+
+#: wp-quiz-pro.php:424
+msgid "Full Width (responsive)"
+msgstr "العرض الكامل (متجاوب)"
+
+#: wp-quiz-pro.php:425
+msgid "Answers"
+msgstr "الإجابات"
+
+#: wp-quiz-pro.php:426
+msgid "Upload"
+msgstr "رفع"
+
+#: wp-quiz-pro.php:427
+msgid "Upload Image"
+msgstr "رفع صورة"
+
+#: wp-quiz-pro.php:428
+msgid "Preview"
+msgstr "عرض"
+
+#: wp-quiz-pro.php:458
+msgid "Shortcode:"
+msgstr "الكود المختصر:"
+
+#: wp-quiz-pro.php:512
+msgid "Quiz Name"
+msgstr "عنوان الإختبار"
+
+#: wp-quiz-pro.php:513
+msgid "Shortcode"
+msgstr "الكود المختصر"
+
+#: wp-quiz-pro.php:514
+msgid "Embed Code"
+msgstr "كود الإدراج"
+
+#: wp-quiz-pro.php:520
+msgid "Quiz type"
+msgstr "نوع الإختبار"
+
+#: wp-quiz-pro.php:589
+msgid "E-mail Subscribers"
+msgstr "الإيميلات المسجلة"
+
+#: inc/class-fb-quiz.php:44
+msgid "Please login with Facebook to see your result"
+msgstr "المرجوا الدخول بحسابك فيسبوك لرؤية النتيجة"
+
+#: inc/class-fb-quiz.php:45
+msgid "Login with Facebook"
+msgstr "الدخول بفيسبوك"
+
+#: inc/class-flip-quiz.php:55 inc/class-personality-quiz.php:42
+#: inc/class-trivia-quiz.php:52
+msgid "Advertisement"
+msgstr "الإعلانات"
+
+#: inc/class-flip-quiz.php:97 inc/class-swiper-quiz.php:66
+#: inc/class-wp-quiz-pro.php:159
+msgid "Share your Results :"
+msgstr "شارك نتيجتك الآن:"
+
+#: inc/class-page-config.php:85
+msgid "Settings saved"
+msgstr "تم حفظ الإعدادات"
+
+#: inc/class-page-config.php:109
+msgid "Mail Service"
+msgstr "خدمة البريد"
+
+#: inc/class-page-config.php:110
+msgid "Default Quiz Settings"
+msgstr "إعدادات الإختبار الإفتراضية"
+
+#: inc/class-page-config.php:111
+msgid "Ad Code"
+msgstr "كود الإعلان"
+
+#: inc/class-page-config.php:112
+msgid "Global"
+msgstr "عامة"
+
+#: inc/class-page-config.php:124 wp-quiz-pro.php:379 wp-quiz-pro.php:564
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: inc/class-page-config.php:140 wp-quiz-pro.php:376
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+#: inc/class-page-config.php:189
+msgid "Profile Name"
+msgstr "إسم البروفايل"
+
+#: inc/class-page-config.php:208
+msgid "Select Mail service"
+msgstr "اختر خدمة البريد"
+
+#: inc/class-page-config.php:282
+msgid "Signup"
+msgstr "التسجيل"
+
+#: inc/class-page-config.php:300 wp-quiz-pro.php:385
+msgid "Share buttons"
+msgstr "أزرار المشاركة"
+
+#: inc/class-page-config.php:304 inc/class-wp-quiz-pro.php:161
+#: inc/class-wp-quiz-pro.php:197 wp-quiz-pro.php:244
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: inc/class-page-config.php:305 inc/class-wp-quiz-pro.php:164
+#: wp-quiz-pro.php:245
+msgid "Twitter"
+msgstr "تويتر"
+
+#: inc/class-page-config.php:306 wp-quiz-pro.php:246
+msgid "Google +"
+msgstr "غوغل بلاس"
+
+#: inc/class-page-config.php:326 wp-quiz-pro.php:395
+msgid "Show Ads"
+msgstr "إظهار الإعلانات"
+
+#: inc/class-page-config.php:334
+msgid "Show Ads after every nth question"
+msgstr "إظهار الإعلان بعد كل x سؤال"
+
+#: inc/class-page-config.php:340 wp-quiz-pro.php:397
+msgid "Repeat Ads"
+msgstr "تكرار الإعلان"
+
+#: inc/class-page-config.php:348 wp-quiz-pro.php:386
+msgid "Countdown timer [Seconds/question]"
+msgstr "عداد وقت الإختبار (الثوني/سؤال)"
+
+#: inc/class-page-config.php:354 wp-quiz-pro.php:388
+msgid "Auto scroll to next question"
+msgstr "الإنتقال التلقائي للسؤال التالي"
+
+#: inc/class-page-config.php:365 wp-quiz-pro.php:392
+msgid "No Action"
+msgstr "بدون إجبار"
+
+#: inc/class-page-config.php:366 wp-quiz-pro.php:393
+msgid "Capture Email"
+msgstr "تسجيل الإيميلات"
+
+#: inc/class-page-config.php:367 wp-quiz-pro.php:394
+msgid "Facebook Share"
+msgstr "مشاركة على فيسبوك"
+
+#: inc/class-page-config.php:384
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: inc/class-page-config.php:389 inc/class-page-email-subs.php:71
+#: inc/class-page-email-subs.php:141 inc/class-page-players.php:71
+#: inc/class-page-players.php:142 wp-quiz-pro.php:350
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/class-page-config.php:402
+msgid "Enable or disable players tracking."
+msgstr "تشغيل أو تعطيل تسجيل معلومات الطلاب."
+
+#: inc/class-page-email-subs.php:35
+msgid "Email Subscriber added."
+msgstr "تمت إضافة بريد المشترك."
+
+#: inc/class-page-email-subs.php:95 inc/class-page-players.php:99
+msgid "Quiz"
+msgstr "إختبار"
+
+#: inc/class-page-email-subs.php:96
+msgid "Name"
+msgstr "الإسم"
+
+#: inc/class-page-email-subs.php:97
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#: inc/class-page-email-subs.php:98 inc/class-page-players.php:102
+#: wp-quiz-pro.php:521
+msgid "Date"
+msgstr "التاريخ"
+
+#: inc/class-page-email-subs.php:138
+msgid "Quiz name"
+msgstr "إسم الإختبار"
+
+#: inc/class-page-email-subs.php:198 inc/class-page-players.php:211
+msgid "Export CSV"
+msgstr "تصدير CSV"
+
+#: inc/class-page-import-export.php:121 wp-quiz-pro.php:600
+msgid "Import/Export"
+msgstr "تصدير/استيراد"
+
+#: inc/class-page-import-export.php:162
+msgid "Import"
+msgstr "استيراد"
+
+#: inc/class-page-import-export.php:163
+msgid "Export"
+msgstr "تصدير"
+
+#: inc/class-page-import-export.php:172
+msgid "Select Quiz to Export"
+msgstr "اختر اختبار لتصديره"
+
+#: inc/class-page-import-export.php:179
+msgid "Select All"
+msgstr "اختيار الكل"
+
+#: inc/class-page-import-export.php:208
+msgid "Import Demos"
+msgstr "استيراد الأمثلة التجريبية"
+
+#: inc/class-page-import-export.php:212 inc/class-page-import-export.php:221
+#: inc/class-page-import-export.php:230 inc/class-page-import-export.php:239
+#: inc/class-page-import-export.php:248
+msgid "View Demo"
+msgstr "مشاهدة مثال تجريبي"
+
+#: inc/class-page-players.php:100
+msgid "Result"
+msgstr "النتيجة"
+
+#: inc/class-page-players.php:101
+msgid "Type"
+msgstr "النوع"
+
+#: inc/class-personality-quiz.php:45 inc/class-personality-quiz.php:153
+#: inc/class-trivia-quiz.php:55 inc/class-trivia-quiz.php:166
+msgid "Continue &gt;&gt;"
+msgstr "متابعة &gt;&gt;"
+
+#: inc/class-swiper-quiz.php:57 inc/class-trivia-quiz.php:210
+msgid "Begin!"
+msgstr "بدأ الإختبار!"
+
+#: inc/class-swiper-quiz.php:69 wp-quiz-pro.php:342
+msgid "Results"
+msgstr "النتائج"
+
+#: inc/class-swiper-quiz.php:97
+msgid "Play Again!"
+msgstr "إعادة الإختبار!"
+
+#: inc/class-wp-quiz-pro.php:190
+msgid "Your first name :"
+msgstr "إسمك الكامل:"
+
+#: inc/class-wp-quiz-pro.php:191
+msgid "Your email address :"
+msgstr "بريدك الإلكتروني:"
+
+#: inc/class-wp-quiz-pro.php:192
+msgid "Show my results &gt;&gt;"
+msgstr "أظهر النتيجة &gt;&gt;"
+
+#: inc/class-wp-quiz-pro.php:227
+msgid "PLAY AGAIN !"
+msgstr "إعادة الإختبار!"
+
+#: inc/class-wp-quiz-pro.php:267
+msgid "Correct !"
+msgstr "إجابة صحيحة!"
+
+#: inc/class-wp-quiz-pro.php:268
+msgid "Wrong !"
+msgstr "إجابة خاطئة!"
+
+#: inc/class-wp-quiz-pro.php:269
+msgid "You got %%score%% out of %%total%%"
+msgstr "لقد حلصت على %%score%%/%%total%%"
+
+#: inc/class-wp-quiz-pro.php:270
+msgid "I got %%score%% out of %%total%%, and you?"
+msgstr "أ،ا حصلت على %%score%%/%%total%%، ماذا عنك ؟"
+
+#: wp-quiz-pro.php:165
+msgctxt "quiz"
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: wp-quiz-pro.php:166
+msgid "Add New Quiz"
+msgstr "إضافة اختبار جديد"
+
+#: wp-quiz-pro.php:167
+msgid "New Quiz"
+msgstr "اختبار جديد"
+
+#: wp-quiz-pro.php:168
+msgid "View Quiz"
+msgstr "عرض الإختبار"
+
+#: wp-quiz-pro.php:169
+msgid "Edit Quiz"
+msgstr "تعديل الإختبار"
+
+#: wp-quiz-pro.php:334
+msgid "Select Quiz Type"
+msgstr "اختر نوع الإختبار"
+
+#: wp-quiz-pro.php:335
+msgid "Content"
+msgstr "المحتوى"
+
+#: wp-quiz-pro.php:336
+msgid "Styling"
+msgstr "التصميم"
+
+#: wp-quiz-pro.php:337
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: wp-quiz-pro.php:338
+msgid "Questions"
+msgstr "الأسئلة"
+
+#: wp-quiz-pro.php:339
+msgid "Question"
+msgstr "السؤال"
+
+#: wp-quiz-pro.php:340
+msgid "Add Question"
+msgstr "إضافة سؤال"
+
+#: wp-quiz-pro.php:341
+msgid "Edit Question"
+msgstr "تعديل السؤال"
+
+#: wp-quiz-pro.php:343
+msgid "Add Result"
+msgstr "إضافة نتيجة"
+
+#: wp-quiz-pro.php:344
+msgid "Edit Result"
+msgstr "تعديل النتيجة"
+
+#: wp-quiz-pro.php:345
+msgid "Add Answer"
+msgstr "إضافة إجابة"
+
+#: wp-quiz-pro.php:346
+msgid "Edit Answer"
+msgstr "تعديل الإجابة"
+
+#: wp-quiz-pro.php:347
+msgid "Add Explanation"
+msgstr "إضافة شرح وتوضيح"
+
+#: wp-quiz-pro.php:348
+msgid "Edit Explanation"
+msgstr "تعديل الشرح"
+
+#: wp-quiz-pro.php:349
+msgid "Edit"
+msgstr "تعديل"
+
+#: wp-quiz-pro.php:375
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: wp-quiz-pro.php:402
+msgid "Show all"
+msgstr "صفحة وحيدة"
+
+#: wp-quiz-pro.php:404
+msgid "Choose skin"
+msgstr "اختر التصميم"

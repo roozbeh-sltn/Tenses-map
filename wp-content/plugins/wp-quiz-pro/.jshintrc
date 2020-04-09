@@ -1,0 +1,45 @@
+{
+    // Enforcing options
+    "curly": true,
+    "sub": true,
+    "eqeqeq": true,
+    "laxbreak": true,
+    "latedef": true,
+    "nonbsp": true,
+    "strict": false,
+    "undef": true,
+    "unused": true,
+
+    // Environments
+    "browser": true,
+    "jquery": true,
+
+	"globals": {
+		"console": true,
+		"document": true,
+        "window": true,
+        "prompt": true,
+
+        // Libs
+        "_": false,
+        "Backbone": true,
+		"jQuery": true,
+		"gapi": true,
+		"FB": true,
+		"twttr": true,
+		"IN": true,
+
+        // Wordpress
+        "wp": true,
+        "tinyMCE": true,
+        "wpActiveEditor": true,
+        "ajaxurl": true,
+
+        // Atom
+        "ContentLocker": true,
+        "cl": true,
+		"__contentlocker": true,
+		"ControlBase": true,
+		"ControlSigninBase": true
+	}
+}

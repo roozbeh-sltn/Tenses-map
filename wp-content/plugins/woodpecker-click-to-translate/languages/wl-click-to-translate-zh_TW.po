@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: Woodpecker Learning <travis@woodpeckerlearning.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Click to Translate"
+msgstr "敲敲查字典"
+
+msgid "Click to Translate button"
+msgstr "敲敲查字典開關"
+
+msgid "The place to show translation enable / disable button."
+msgstr "擺放敲敲查字典功能開關的位置."

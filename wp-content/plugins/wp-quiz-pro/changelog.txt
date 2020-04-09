@@ -1,0 +1,449 @@
+v1.2.10 (Jan 24, 2018)
+----------------------------------
+- Fixed multi-page quizzes still auto-scrolling when proceeding to the next quiz with *Auto scroll to next question* disabled
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.2.9 (Jan 15, 2018)
+----------------------------------
+- Fixed swipe issue
+
+Files updated:
+assets\js\hammer.min.js
+
+v1.2.8 (Dec 07, 2017)
+----------------------------------
+- Fixed double click issue on continue button using debounce
+
+Files updated:
+assets\js\main.js
+assets\js\main.min.js
+
+v1.2.7 (Nov 30, 2017)
+----------------------------------
+- Fixed double click issue on continue button
+
+Files updated:
+assets\js\main.js
+assets\js\main.min.js
+
+v1.2.6 (Nov 15, 2017)
+----------------------------------
+- Fixed issue with quiz choices not clickable on mobile devices
+
+Files updated:
+- assets/css/main.css
+- wp-quiz-pro.php
+
+v1.2.5 (Nov 05, 2017)
+----------------------------------
+- Fixed bug which was creating quiz related files on export [in ‘wp-admin’ folder]
+- Fixed Flip quiz CSS
+
+Files updated:
+-assets/css/main.css
+assets\js\main.js
+assets\js\main.min.js
+-inc/class-admin.php
+-inc/class-fb-quiz.php
+-inc/class-page-email-subs.php
+-inc/class-page-import-export.php
+-inc/class-page-players.php
+-inc/class-page-support.php
+
+v1.2.4 (Oct 28, 2017)
+----------------------------------
+- Fixed performance related bug
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.2.3 (Oct 24, 2017)
+----------------------------------
+- Added RTL Support
+- Fixed: Stack answers on mobile
+
+Files updated:
+-assets/css/main.css
+-assets/css/flat-skin.css
+-assets/css/quiz-rtl.css
+-assets/css/quiz-admin-rtl.css
+-inc/class-wp-quiz-pro.php
+-inc/class-page-config.php
+-inc/class-admin.php
+-inc/class-page-import-export.php
+
+v1.2.2 (Oct 23, 2017)
+----------------------------------
+- Fixed Script loading
+
+Files updated:
+assets\js\main.js
+assets\js\main.min.js
+inc\class-flip-quiz.php
+inc\class-swiper-quiz.php
+inc\class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+v1.2.1 (Oct 23, 2017)
+----------------------------------
+- Fixed FB Share issue
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.2.0 (Oct 20, 2017)
+----------------------------------
+- Updated the JavaScript libraries to latest version
+
+v1.1.9 (Oct 17, 2017)
+----------------------------------
+- Fixed: plugin url and directory path issues for change of folder name
+- Removed: constants for good
+
+v1.1.8 (Oct 12, 2017)
+----------------------------------
+- Fixed: Facebook share dialog position issue
+
+Files updated:
+- main.js
+- main.min.js
+
+v1.1.7 (Sep 15, 2017)
+----------------------------------
+- Security Patch for allow_url_include
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.1.6 (Sep 2, 2017)
+----------------------------------
+- "Subscribe Box Title" option front end fix
+
+Files updated:
+- wp-quiz-pro.php
+- inc/class-wp-quiz-pro.php
+
+v1.1.5 (Sep 1, 2017)
+----------------------------------
+- "Subscribe Box Title" option fix
+
+Files updated:
+- wp-quiz-pro.php
+- inc/class-page-config.php
+
+v1.1.4 (Aug 26, 2017)
+----------------------------------
+- Added: Quiz listing shortcode [wp_quiz_listing]
+
+Files added:
+- assets/css/listing.php
+- tmpl-quiz-listing.php
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.1.3 (Aug 23, 2017)
+----------------------------------
+- Fixed: Title repeating
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.1.2 (Aug 17, 2017)
+----------------------------------
+- Add Subscribe box title text option
+- Fix Swiper quiz class
+
+Files updated:
+-inc/class-page-config.php
+-inc/class-swiper-quiz.php
+-inc/class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+v1.1.1 (Aug 07, 2017)
+----------------------------------
+- Fixed: Facebook quiz placeholder for answer
+- Updated: POT file
+
+Files updated:
+-inc/class-admin.php
+-inc/class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+v1.1.0 (July 22, 2017)
+----------------------------------
+- Fixed: Title while sharing if quiz is embedded into post/page
+- Enhance: Twitter card is used for sharing quiz result
+- Enhance: Google+ now share quiz result with result text and image
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.0.22 (July 18, 2017)
+----------------------------------
+- Fixed: Ads for single page layout for Personality and Trivia quiz
+
+Files updated:
+-inc/class-personality-quiz.php
+-inc/class-trivia-quiz.php
+
+v1.0.21 (July 11, 2017)
+----------------------------------
+- Fixed: Personality quiz twitter share issue
+- Fixed: Facebook quiz description issue
+- Fixed: Result image reading issue in Imagick
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+-inc/class-fb-quiz.php
+-inc/class-personality-quiz.php
+- wp-quiz-pro.php
+
+v1.0.20 (July 05, 2017)
+----------------------------------
+- Fixed: Facebook username share issue
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.0.19 (July 04, 2017)
+----------------------------------
+- Fixed: Facebook username token issue
+- Add: Support for external fonts
+- Fixed: Re-write Facebook quiz image generation functionality to minimize footprint
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+-inc/class-admin.php
+-inc/class-page-config.php
+-inc/class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+v1.0.18 (June 30th, 2017)
+----------------------------------
+- Added Support admin page
+
+Files updated:
+- wp-quiz-pro.php
+- inc/class-page-support.php
+
+v1.0.17 (June 25th, 2017)
+----------------------------------
+- Fixed quiz embed functionality
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.0.16 (June 25th, 2017)
+----------------------------------
+- Fixed: Facebook quiz result image for Facebook share
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.0.15 (June 24th, 2017)
+----------------------------------
+- Added: GD library missing notification
+
+Files updated:
+-inc/class-admin.php
+- wp-quiz-pro.php
+
+v1.0.14 (June 19, 2017)
+----------------------------------
+- Fixed: Facebook invalid version issue
+- Update: HTML in result description
+- Fixed: Result id issue in Facebook Quiz
+- Fixed: JavaScript styling and coding issues
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+-inc/class-fb-quiz.php
+-inc/class-personality-quiz.php
+-inc/class-trivia-quiz.php
+- wp-quiz-pro.php
+
+v1.0.13 (June 08, 2017)
+----------------------------------
+- Fixed: Long Uri issue with Facebook
+- Add Aweber mailing service
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+-inc/activate-plugin.php
+-inc/class-fb-quiz.php
+-inc/class-page-config.php
+-inc/class-personality-quiz.php
+-inc/class-trivia-quiz.php
+-inc/class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+Files added:
+-inc/class-admin.php
+-inc/class-subscription-aweber.php
+-vendor/aweber_api/aweber.php
+-vendor/aweber_api/aweber_api.php
+-vendor/aweber_api/aweber_collection.php
+-vendor/aweber_api/aweber_entry.php
+-vendor/aweber_api/aweber_entry_data_array.php
+-vendor/aweber_api/aweber_response.php
+-vendor/aweber_api/curl_object.php
+-vendor/aweber_api/curl_response.php
+-vendor/aweber_api/exceptions.php
+-vendor/aweber_api/oauth_adapter.php
+-vendor/aweber_api/oauth_application.php
+
+v1.0.12 (May 18, 2017)
+----------------------------------
+- Add Pre-caching images strategy for Facebook
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.0.11 (May 14, 2017)
+----------------------------------
+- Fix FB shared pages
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.0.10 (May 13, 2017)
+----------------------------------
+- Move fb share data to new hook
+- Fix FB Share JavaScript
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.0.9 (May 08, 2017)
+----------------------------------
+- Fixed in JavaScript for trivia force fb share
+- Extra conditions when outputting Open Graph Tags
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.0.8 (May 06, 2017)
+----------------------------------
+- Fixed Facebook share issue and made plugin compatible with Facebook API v2.9
+- Optimized code for better performance
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- inc\activate-plugin.php
+- inc\class-fb-quiz.php
+- inc\class-flip-quiz.php
+- inc\class-page-config.php
+- inc\class-page-email-subs.php
+- inc\class-page-import-export.php
+- inc\class-page-players.php
+- inc\class-personality-quiz.php
+- inc\class-swiper-quiz.php
+- inc\class-trivia-quiz.php
+- inc\class-wp-quiz-pro.php
+- wp-quiz-pro.php
+
+v1.0.7 (May 5, 2017)
+----------------------------------
+- Switched to Facebook SDK API v2.8
+
+Files updated:
+- wp-quiz-pro.php
+
+v1.0.6 (May 04, 2017)
+----------------------------------
+- Update Facebook sharing functionality according to sdk version 2.9
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- wp-quiz-pro.php
+
+v1.0.5 (May 02, 2017)
+----------------------------------
+- Update Google Adsense strategy for multipage quiz layout
+
+Files updated:
+- assets/js/main.js
+- assets/js/main.min.js
+- class-personality-quiz.php
+- class-trivia-quiz.php
+
+v1.0.4 (Apr 28, 2017)
+----------------------------------
+- Updated localization strings
+
+Files updated:
+- languages/default.pot -> languages/wp-quiz-pro.pot
+- wp-quiz-pro.php
+
+v1.0.3 (Feb 22, 2017)
+----------------------------------
+- Fixed bug which was preventing form submission on iPhone
+
+Files updated:
+- wp-quiz-pro.php
+- assets/js/main.js
+- assets/js/main.min.js
+
+v1.0.2 (Nov 16, 2016)
+----------------------------------
+- Removed backend bootstrap css file call
+- Fixed iframe share url issue
+- Fixed missing sprite images for swiper quiz
+- Fixed quiz import issue
+- Fixed wrong share image url issue
+- Localized string 'You voted' in swiper quiz
+- Force all quiz frontend js files to load in the footer
+- Other fixes and improvements
+
+Files updated:
+- wp-quiz-pro.php
+- class-wp-quiz-pro.php
+- inc/class-swiper-quiz.php
+- inc/class-wp-quiz-pro.php
+- inc/class-page-import-export.php
+- assets/js/main.js
+- assets/js/main.min.js
+- assets/css/main.css
+- assets/image/spritesheet.png
+
+
+v1.0.1 (Nov 9, 2016)
+----------------------------------
+- Fixed google analytics issue
+- Fixed required php version issue
+- Fixed personality and trivia quiz share text title
+- Removed background color option from Facebook quiz
+- Other fixes and improvements
+
+Files updated:
+- wp-quiz-pro.php
+- class-wp-quiz-pro.php
+- inc/class-trivia-quiz.php
+- inc/class-page-config.php
+- assets/js/main.js
+- assets/js/main.min.js
+- assets/js/content.min.js
+
+
+v1.0.0 (Nov 7, 2016)
+----------------------------------
+- Plugin released

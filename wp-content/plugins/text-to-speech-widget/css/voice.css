@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.tts_container textarea,
+.tts_container select {
+	margin-bottom: 10px;	
+}
+.tts_container input {
+	margin-right:10px;
+}
+.ttsw_msg .error {
+	font-weight: bold;
+	color: red;
+}
+

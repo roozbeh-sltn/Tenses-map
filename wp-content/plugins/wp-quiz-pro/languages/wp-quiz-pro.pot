@@ -1,0 +1,1016 @@
+# Copyright (C) 2017 WP Quiz Pro
+# This file is distributed under the same license as the WP Quiz Pro package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Quiz Pro 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-quiz-pro\n"
+"POT-Creation-Date: 2017-10-17 05:53-0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: MYTHEMESHOP <support@mythemeshop.com>\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: inc/class-admin.php:43 inc/class-admin.php:60
+msgid "WP Quiz Pro Notice: "
+msgstr ""
+
+#: inc/class-admin.php:43
+msgid ""
+"PHP imagick extension is missing, please install this extention to enable "
+"the Facebook Quiz type."
+msgstr ""
+
+#: inc/class-admin.php:60
+msgid ""
+"PHP GD library is missing, please install this extention to enable the "
+"Facebook Quiz type."
+msgstr ""
+
+#: inc/class-admin.php:87 inc/class-admin.php:88 inc/class-admin.php:230
+#: inc/class-page-config.php:136
+msgid "General Settings"
+msgstr ""
+
+#: inc/class-admin.php:101 inc/class-admin.php:102
+#: inc/class-page-players.php:180 inc/class-page-players.php:198
+msgid "Players"
+msgstr ""
+
+#: inc/class-admin.php:114 inc/class-admin.php:115
+msgid "E-mail Subscribers"
+msgstr ""
+
+#: inc/class-admin.php:126 inc/class-admin.php:127
+#: inc/class-page-import-export.php:120
+msgid "Import/Export"
+msgstr ""
+
+#: inc/class-admin.php:137
+msgid "Get Support for WP Quiz Pro"
+msgstr ""
+
+#: inc/class-admin.php:138
+msgid "Support"
+msgstr ""
+
+#: inc/class-admin.php:185
+msgid "Select Quiz Type"
+msgstr ""
+
+#: inc/class-admin.php:186
+msgid "Content"
+msgstr ""
+
+#: inc/class-admin.php:187
+msgid "Styling"
+msgstr ""
+
+#: inc/class-admin.php:188
+msgid "Settings"
+msgstr ""
+
+#: inc/class-admin.php:189
+msgid "Questions"
+msgstr ""
+
+#: inc/class-admin.php:190
+msgid "Question"
+msgstr ""
+
+#: inc/class-admin.php:191
+msgid "Add Question"
+msgstr ""
+
+#: inc/class-admin.php:192
+msgid "Edit Question"
+msgstr ""
+
+#: inc/class-admin.php:193 inc/class-swiper-quiz.php:74
+msgid "Results"
+msgstr ""
+
+#: inc/class-admin.php:194
+msgid "Add Result"
+msgstr ""
+
+#: inc/class-admin.php:195
+msgid "Edit Result"
+msgstr ""
+
+#: inc/class-admin.php:196
+msgid "Add Answer"
+msgstr ""
+
+#: inc/class-admin.php:197
+msgid "Edit Answer"
+msgstr ""
+
+#: inc/class-admin.php:198
+msgid "Add Explanation"
+msgstr ""
+
+#: inc/class-admin.php:199
+msgid "Edit Explanation"
+msgstr ""
+
+#: inc/class-admin.php:200
+msgid "Edit"
+msgstr ""
+
+#: inc/class-admin.php:201 inc/class-page-config.php:502
+#: inc/class-page-email-subs.php:68 inc/class-page-email-subs.php:134
+#: inc/class-page-players.php:65 inc/class-page-players.php:132
+msgid "Delete"
+msgstr ""
+
+#: inc/class-admin.php:224
+msgid "(Association: 0-no, 1-normal, 2-strong)"
+msgstr ""
+
+#: inc/class-admin.php:226
+msgid "Cancel"
+msgstr ""
+
+#: inc/class-admin.php:227 inc/class-page-config.php:152
+msgid "Save Changes"
+msgstr ""
+
+#: inc/class-admin.php:228
+msgid "Video/Custom Embed"
+msgstr ""
+
+#: inc/class-admin.php:229
+msgid "No Media"
+msgstr ""
+
+#: inc/class-admin.php:231 inc/class-page-config.php:348
+msgid "Randomize Questions"
+msgstr ""
+
+#: inc/class-admin.php:232 inc/class-page-config.php:356
+msgid "Randomize Answers"
+msgstr ""
+
+#: inc/class-admin.php:233 inc/class-page-config.php:364
+msgid "Restart Questions"
+msgstr ""
+
+#: inc/class-admin.php:234 inc/class-page-config.php:372
+msgid "Promote the plugin"
+msgstr ""
+
+#: inc/class-admin.php:235 inc/class-page-config.php:399
+msgid "Show embed code toggle"
+msgstr ""
+
+#: inc/class-admin.php:236 inc/class-page-config.php:407
+msgid "Share buttons"
+msgstr ""
+
+#: inc/class-admin.php:237 inc/class-page-config.php:455
+msgid "Countdown timer [Seconds/question]"
+msgstr ""
+
+#: inc/class-admin.php:238
+msgid "(applies to multiple page layout)"
+msgstr ""
+
+#: inc/class-admin.php:239 inc/class-page-config.php:461
+msgid "Auto scroll to next question"
+msgstr ""
+
+#: inc/class-admin.php:240
+msgid "Show right/wrong answers at the end of quiz"
+msgstr ""
+
+#: inc/class-admin.php:241
+msgid "(applies to single page layout)"
+msgstr ""
+
+#: inc/class-admin.php:242
+msgid "Force action to see results"
+msgstr ""
+
+#: inc/class-admin.php:243 inc/class-page-config.php:472
+msgid "No Action"
+msgstr ""
+
+#: inc/class-admin.php:244 inc/class-page-config.php:473
+msgid "Capture Email"
+msgstr ""
+
+#: inc/class-admin.php:245 inc/class-page-config.php:474
+msgid "Facebook Share"
+msgstr ""
+
+#: inc/class-admin.php:246 inc/class-page-config.php:433
+msgid "Show Ads"
+msgstr ""
+
+#: inc/class-admin.php:247
+msgid "Ads after every nth question"
+msgstr ""
+
+#: inc/class-admin.php:248 inc/class-page-config.php:447
+msgid "Repeat Ads"
+msgstr ""
+
+#: inc/class-admin.php:249
+msgid "Ad Codes"
+msgstr ""
+
+#: inc/class-admin.php:250
+msgid "comma separated codes"
+msgstr ""
+
+#: inc/class-admin.php:251
+msgid "Customize Layout and Colors"
+msgstr ""
+
+#: inc/class-admin.php:252
+msgid "Questions layout"
+msgstr ""
+
+#: inc/class-admin.php:253
+msgid "Show all"
+msgstr ""
+
+#: inc/class-admin.php:254
+msgid "Mutiple pages"
+msgstr ""
+
+#: inc/class-admin.php:255
+msgid "Choose skin"
+msgstr ""
+
+#: inc/class-admin.php:256
+msgid "Traditional Skin"
+msgstr ""
+
+#: inc/class-admin.php:257
+msgid "Modern Flat Skin"
+msgstr ""
+
+#: inc/class-admin.php:258
+msgid "Progress bar color"
+msgstr ""
+
+#: inc/class-admin.php:259
+msgid "Question font color"
+msgstr ""
+
+#: inc/class-admin.php:260
+msgid "Question background color"
+msgstr ""
+
+#: inc/class-admin.php:261
+msgid "Result title color"
+msgstr ""
+
+#: inc/class-admin.php:262
+msgid "Result title font size"
+msgstr ""
+
+#: inc/class-admin.php:263
+msgid "Result title font"
+msgstr ""
+
+#: inc/class-admin.php:264
+msgid "Select Profile"
+msgstr ""
+
+#: inc/class-admin.php:265
+msgid "User Profile Image"
+msgstr ""
+
+#: inc/class-admin.php:266
+msgid "Friend Profile Image"
+msgstr ""
+
+#: inc/class-admin.php:267
+msgid "Animation In"
+msgstr ""
+
+#: inc/class-admin.php:268
+msgid "Animation Out"
+msgstr ""
+
+#: inc/class-admin.php:269
+msgid "Quiz Size"
+msgstr ""
+
+#: inc/class-admin.php:270
+msgid "Custom"
+msgstr ""
+
+#: inc/class-admin.php:271
+msgid "Custom Size"
+msgstr ""
+
+#: inc/class-admin.php:272
+msgid "Width:"
+msgstr ""
+
+#: inc/class-admin.php:273
+msgid "Height:"
+msgstr ""
+
+#: inc/class-admin.php:274
+msgid "set width and height in px"
+msgstr ""
+
+#: inc/class-admin.php:275
+msgid "Full Width (responsive)"
+msgstr ""
+
+#: inc/class-admin.php:276
+msgid "Answers"
+msgstr ""
+
+#: inc/class-admin.php:277
+msgid "Upload"
+msgstr ""
+
+#: inc/class-admin.php:278
+msgid "Upload Image"
+msgstr ""
+
+#: inc/class-admin.php:279
+msgid "Preview"
+msgstr ""
+
+#: inc/class-admin.php:280
+msgid "Preview Image"
+msgstr ""
+
+#: inc/class-admin.php:281
+msgid "Preview Video/Media"
+msgstr ""
+
+#: inc/class-admin.php:282
+msgid "Preview/Position"
+msgstr ""
+
+#: inc/class-admin.php:283
+msgid "Preview Image and set profile position"
+msgstr ""
+
+#: inc/class-admin.php:284
+msgid "image border radius"
+msgstr ""
+
+#: inc/class-admin.php:286
+msgid "Please add the Results and save the draft before adding questions"
+msgstr ""
+
+#: inc/class-admin.php:287
+#, php-format
+msgid ""
+"Possible name substiution (%%userfirstname%% = user first name, "
+"%%userlastname%% = user last name, %%friendfirstname%% = friend first name, "
+"%%friendlastname%% = friend last name)"
+msgstr ""
+
+#: inc/class-admin.php:288
+msgid ""
+"Friend profile image will only work if the current quiz player/user has "
+"Facebook friends that has also authorized your app id to read their friends "
+"list."
+msgstr ""
+
+#: inc/class-admin.php:305
+msgid "Quiz Name"
+msgstr ""
+
+#: inc/class-admin.php:306
+msgid "Shortcode"
+msgstr ""
+
+#: inc/class-admin.php:307
+msgid "Embed Code"
+msgstr ""
+
+#: inc/class-admin.php:310
+msgid "Plays"
+msgstr ""
+
+#: inc/class-admin.php:313
+msgid "Quiz type"
+msgstr ""
+
+#: inc/class-admin.php:314 inc/class-page-email-subs.php:92
+#: inc/class-page-players.php:92
+msgid "Date"
+msgstr ""
+
+#: inc/class-admin.php:386
+msgid "Shortcode:"
+msgstr ""
+
+#: inc/class-admin.php:411
+msgid "Facebook Quiz"
+msgstr ""
+
+#: inc/class-admin.php:411
+msgid "Facebook Quiz (ImageMagic Not Found)"
+msgstr ""
+
+#: inc/class-admin.php:415
+msgid "Trivia"
+msgstr ""
+
+#: inc/class-admin.php:416
+msgid "Personality"
+msgstr ""
+
+#: inc/class-admin.php:417
+msgid "Swiper"
+msgstr ""
+
+#: inc/class-admin.php:418
+msgid "Flip Cards"
+msgstr ""
+
+#: inc/class-admin.php:455 inc/class-page-config.php:411
+#: inc/class-wp-quiz-pro.php:166 inc/class-wp-quiz-pro.php:202
+msgid "Facebook"
+msgstr ""
+
+#: inc/class-admin.php:456 inc/class-page-config.php:412
+#: inc/class-wp-quiz-pro.php:169
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-admin.php:457 inc/class-page-config.php:413
+msgid "Google +"
+msgstr ""
+
+#: inc/class-admin.php:458 inc/class-page-config.php:414
+#: inc/class-wp-quiz-pro.php:175
+msgid "VK"
+msgstr ""
+
+#: inc/class-admin.php:613 inc/class-admin.php:620
+msgid "Cheating, huh?"
+msgstr ""
+
+#: inc/class-fb-quiz.php:29
+msgid "Analyzing profile ..."
+msgstr ""
+
+#: inc/class-fb-quiz.php:43
+msgid "Please login with Facebook to see your result"
+msgstr ""
+
+#: inc/class-fb-quiz.php:44
+msgid "Login with Facebook"
+msgstr ""
+
+#: inc/class-flip-quiz.php:60 inc/class-personality-quiz.php:44
+#: inc/class-trivia-quiz.php:53
+msgid "Advertisement"
+msgstr ""
+
+#: inc/class-flip-quiz.php:86
+msgid "Click to Flip"
+msgstr ""
+
+#: inc/class-flip-quiz.php:104 inc/class-swiper-quiz.php:71
+#: inc/class-wp-quiz-pro.php:164
+msgid "Share your Results :"
+msgstr ""
+
+#: inc/class-page-config.php:97
+msgid "Settings saved"
+msgstr ""
+
+#: inc/class-page-config.php:120
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/class-page-config.php:121
+msgid "Mail Service"
+msgstr ""
+
+#: inc/class-page-config.php:122
+msgid "Default Quiz Settings"
+msgstr ""
+
+#: inc/class-page-config.php:123
+msgid "Ad Code"
+msgstr ""
+
+#: inc/class-page-config.php:124
+msgid "Global"
+msgstr ""
+
+#: inc/class-page-config.php:253
+msgid "Profile Name"
+msgstr ""
+
+#: inc/class-page-config.php:259
+msgid "Tracking ID"
+msgstr ""
+
+#: inc/class-page-config.php:272
+msgid "Select Mail service"
+msgstr ""
+
+#: inc/class-page-config.php:273
+msgid "MailChimp"
+msgstr ""
+
+#: inc/class-page-config.php:274
+msgid "GetResponse"
+msgstr ""
+
+#: inc/class-page-config.php:275
+msgid "Aweber"
+msgstr ""
+
+#: inc/class-page-config.php:280 inc/class-page-config.php:292
+msgid "API key"
+msgstr ""
+
+#: inc/class-page-config.php:286
+msgid "List ID"
+msgstr ""
+
+#: inc/class-page-config.php:298
+msgid "Campaign Name"
+msgstr ""
+
+#: inc/class-page-config.php:304
+msgid "Aweber Details"
+msgstr ""
+
+#: inc/class-page-config.php:313
+msgid "To connect your Aweber account:"
+msgstr ""
+
+#: inc/class-page-config.php:316
+#, php-format
+msgid ""
+"<span>1.</span> <a href=\"%s\" target=\"_blank\">Click here</a> <span>to "
+"open the authorization page and log in.</span>"
+msgstr ""
+
+#: inc/class-page-config.php:317
+msgid ""
+"<span>2.</span> Copy and paste the authorization code in the field below."
+msgstr ""
+
+#: inc/class-page-config.php:330
+msgid "Your Aweber Account is connected."
+msgstr ""
+
+#: inc/class-page-config.php:331
+msgid ""
+"<a href=\"#\" class=\"aweber_disconnect\">Click here</a> <span>to disconnect."
+"</span>"
+msgstr ""
+
+#: inc/class-page-config.php:383
+msgid "Signup"
+msgstr ""
+
+#: inc/class-page-config.php:384
+msgid " and get your referral ID (username) if you don't have it already!"
+msgstr ""
+
+#: inc/class-page-config.php:388
+msgid "Check your affiliate earning by following "
+msgstr ""
+
+#: inc/class-page-config.php:389
+msgid "this link"
+msgstr ""
+
+#: inc/class-page-config.php:393
+msgid "MyThemeShop username"
+msgstr ""
+
+#: inc/class-page-config.php:419
+msgid ""
+"Enable or disable Open Graph and Twitter Cards meta tags in single quiz head "
+"tag."
+msgstr ""
+
+#: inc/class-page-config.php:427
+msgid "Facebook App ID"
+msgstr ""
+
+#: inc/class-page-config.php:441
+msgid "Show Ads after every nth question"
+msgstr ""
+
+#: inc/class-page-config.php:455
+msgid "applies to trivia quiz, multiple page layout"
+msgstr ""
+
+#: inc/class-page-config.php:461
+msgid "applies to trivia or personality quiz, single page layout"
+msgstr ""
+
+#: inc/class-page-config.php:469
+msgid "Force action to see the results"
+msgstr ""
+
+#: inc/class-page-config.php:469
+msgid "applies to trivia or personality quiz"
+msgstr ""
+
+#: inc/class-page-config.php:479
+msgid "External Font"
+msgstr ""
+
+#: inc/class-page-config.php:497
+msgid "Add New"
+msgstr ""
+
+#: inc/class-page-config.php:515
+msgid "Enable or disable players tracking."
+msgstr ""
+
+#: inc/class-page-config.php:523
+msgid "Subscribe Box Title"
+msgstr ""
+
+#: inc/class-page-config.php:525 inc/class-wp-quiz-pro.php:189
+msgid "Just tell us who you are to view your results !"
+msgstr ""
+
+#: inc/class-page-email-subs.php:34
+msgid "Email Subscriber added."
+msgstr ""
+
+#: inc/class-page-email-subs.php:35
+msgid "Email Subscriber deleted."
+msgstr ""
+
+#: inc/class-page-email-subs.php:36
+msgid "Email Subscriber updated."
+msgstr ""
+
+#: inc/class-page-email-subs.php:37
+msgid "Email Subscriber not added."
+msgstr ""
+
+#: inc/class-page-email-subs.php:38
+msgid "Email Subscriber not updated."
+msgstr ""
+
+#: inc/class-page-email-subs.php:39
+msgid "Email Subscribers deleted."
+msgstr ""
+
+#: inc/class-page-email-subs.php:59
+msgid "No Email Subscriber."
+msgstr ""
+
+#: inc/class-page-email-subs.php:89 inc/class-page-players.php:89
+msgid "Quiz"
+msgstr ""
+
+#: inc/class-page-email-subs.php:90
+msgid "Name"
+msgstr ""
+
+#: inc/class-page-email-subs.php:91
+msgid "E-mail"
+msgstr ""
+
+#: inc/class-page-email-subs.php:131
+msgid "Quiz name"
+msgstr ""
+
+#: inc/class-page-email-subs.php:172
+msgid "EmailsSubscribers"
+msgstr ""
+
+#: inc/class-page-email-subs.php:192
+msgid "Email Subscribers"
+msgstr ""
+
+#: inc/class-page-email-subs.php:192 inc/class-page-players.php:198
+msgid "Export CSV"
+msgstr ""
+
+#: inc/class-page-import-export.php:45
+msgid "Quiz imported successfully"
+msgstr ""
+
+#: inc/class-page-import-export.php:47
+msgid "Failed to import Quiz"
+msgstr ""
+
+#: inc/class-page-import-export.php:106
+msgid "Import and Export Quizzes"
+msgstr ""
+
+#: inc/class-page-import-export.php:161
+msgid "Import"
+msgstr ""
+
+#: inc/class-page-import-export.php:162
+msgid "Export"
+msgstr ""
+
+#: inc/class-page-import-export.php:171
+msgid "Select Quiz to Export"
+msgstr ""
+
+#: inc/class-page-import-export.php:178
+msgid "Select All"
+msgstr ""
+
+#: inc/class-page-import-export.php:195
+msgid "No Quiz to Export"
+msgstr ""
+
+#: inc/class-page-import-export.php:200
+msgid "Import Demos"
+msgstr ""
+
+#: inc/class-page-import-export.php:204 inc/class-page-import-export.php:213
+#: inc/class-page-import-export.php:222 inc/class-page-import-export.php:231
+#: inc/class-page-import-export.php:240
+msgid "View Demo"
+msgstr ""
+
+#: inc/class-page-import-export.php:256
+msgid "Import Quizzes"
+msgstr ""
+
+#: inc/class-page-players.php:33
+msgid "Player added."
+msgstr ""
+
+#: inc/class-page-players.php:34
+msgid "Player deleted."
+msgstr ""
+
+#: inc/class-page-players.php:35
+msgid "Player updated."
+msgstr ""
+
+#: inc/class-page-players.php:36
+msgid "Player not added."
+msgstr ""
+
+#: inc/class-page-players.php:37
+msgid "Player not updated."
+msgstr ""
+
+#: inc/class-page-players.php:38
+msgid "Players deleted."
+msgstr ""
+
+#: inc/class-page-players.php:56
+msgid "No Player."
+msgstr ""
+
+#: inc/class-page-players.php:88
+msgid "User"
+msgstr ""
+
+#: inc/class-page-players.php:90
+msgid "Result"
+msgstr ""
+
+#: inc/class-page-players.php:91
+msgid "Type"
+msgstr ""
+
+#: inc/class-page-players.php:129
+msgid "Username name"
+msgstr ""
+
+#: inc/class-page-support.php:19
+msgid "Technical Support"
+msgstr ""
+
+#: inc/class-page-support.php:140
+#, php-format
+msgid ""
+"We offer technical support through our %s. Please <strong>copy and paste the "
+"following information in your ticket</strong> when contacting support:"
+msgstr ""
+
+#: inc/class-page-support.php:140
+msgid "Support Ticket System"
+msgstr ""
+
+#: inc/class-page-support.php:144
+msgid "Generating environment information. Please wait. . ."
+msgstr ""
+
+#: inc/class-page-support.php:162
+msgid "Copy Data for Support Request"
+msgstr ""
+
+#: inc/class-page-support.php:167
+msgid "Open Support Forum"
+msgstr ""
+
+#: inc/class-page-support.php:222
+msgid "Environment"
+msgstr ""
+
+#: inc/class-page-support.php:226
+msgid "WordPress"
+msgstr ""
+
+#: inc/class-page-support.php:230
+msgid "Plugins"
+msgstr ""
+
+#: inc/class-page-support.php:234
+msgid "Theme"
+msgstr ""
+
+#: inc/class-page-support.php:238 wp-quiz-pro.php:180 wp-quiz-pro.php:182
+msgid "WP Quiz"
+msgstr ""
+
+#: inc/class-page-support.php:367
+msgid "None"
+msgstr ""
+
+#: inc/class-personality-quiz.php:47 inc/class-personality-quiz.php:164
+#: inc/class-trivia-quiz.php:56 inc/class-trivia-quiz.php:175
+msgid "Continue &gt;&gt;"
+msgstr ""
+
+#: inc/class-subscription-aweber.php:68
+msgid "Unable to connect to Aweber. The Authorization Code is empty."
+msgstr ""
+
+#: inc/class-subscription-aweber.php:78
+msgid ""
+"Unable to connect your Aweber Account. The Authorization Code is incorrect."
+msgstr ""
+
+#: inc/class-swiper-quiz.php:56
+msgid "This is a swiper quiz, swipe right for yes, swipe left for no. "
+msgstr ""
+
+#: inc/class-swiper-quiz.php:58 inc/class-trivia-quiz.php:218
+msgid "Begin!"
+msgstr ""
+
+#: inc/class-swiper-quiz.php:102
+msgid "Play Again!"
+msgstr ""
+
+#: inc/class-trivia-quiz.php:216
+msgid "This is a timed quiz. You will be given "
+msgstr ""
+
+#: inc/class-trivia-quiz.php:216
+msgid " seconds per question. Are you ready?"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:172
+msgid "Google+"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:195
+msgid "Your first name :"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:196
+msgid "Your email address :"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:197
+msgid "Show my results &gt;&gt;"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:201
+msgid "Please share this quiz to view your results . "
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:219
+msgid "Powered by WP Quiz Pro"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:232
+msgid "PLAY AGAIN !"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:249
+msgid "Toggle embed code"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:273
+msgid "Correct !"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:274
+msgid "Wrong !"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:275
+#, php-format
+msgid "You got %%score%% out of %%total%%"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:276
+#, php-format
+msgid "I got %%score%% out of %%total%%, and you?"
+msgstr ""
+
+#: inc/class-wp-quiz-pro.php:277
+msgid "You voted"
+msgstr ""
+
+#: wp-quiz-pro.php:77 wp-quiz-pro.php:84
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: wp-quiz-pro.php:181
+msgid "WP Quiz Pro"
+msgstr ""
+
+#: wp-quiz-pro.php:183
+msgctxt "name admin bar"
+msgid "WP Quiz Pro"
+msgstr ""
+
+#: wp-quiz-pro.php:184
+msgid "All Quizzes"
+msgstr ""
+
+#: wp-quiz-pro.php:185
+msgid "Search Quizzes"
+msgstr ""
+
+#: wp-quiz-pro.php:186
+msgctxt "quiz"
+msgid "Add New"
+msgstr ""
+
+#: wp-quiz-pro.php:187
+msgid "Add New Quiz"
+msgstr ""
+
+#: wp-quiz-pro.php:188
+msgid "New Quiz"
+msgstr ""
+
+#: wp-quiz-pro.php:189
+msgid "View Quiz"
+msgstr ""
+
+#: wp-quiz-pro.php:190
+msgid "Edit Quiz"
+msgstr ""
+
+#: wp-quiz-pro.php:191
+msgid "No Quizzes found."
+msgstr ""
+
+#: wp-quiz-pro.php:192
+msgid "WP Quiz not found in Trash."
+msgstr ""
+
+#: wp-quiz-pro.php:193
+msgid "Parent Quiz"
+msgstr ""
+
+#: wp-quiz-pro.php:198
+msgid "Holds the quizzes and their data."
+msgstr ""
+
+#: wp-quiz-pro.php:704
+msgid "No email address found."
+msgstr ""
+
+#: wp-quiz-pro.php:711
+msgid "Not a valid email address."
+msgstr ""
+
+#: wp-quiz-pro.php:830
+msgid ""
+"WP Quiz Pro requires PHP version 5.4.0 with spl extension or greater and "
+"WordPress 3.4 or greater."
+msgstr ""
+
+#: wp-quiz-pro.php:836
+msgid "Please deactivate WP Quiz plugin first to use the Premium features!"
+msgstr ""
+
+#: wp-quiz-pro.php:1097
+msgid "No aweber authorization code found."
+msgstr ""

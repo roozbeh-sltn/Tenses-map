@@ -1,0 +1,118 @@
+.pull-right {
+    float: left !important;
+}
+
+.pull-left {
+    float: right !important;
+}
+
+ul.tabs li {
+    margin-right: 0px;
+    margin-left: 4px;
+}
+
+.summary-answer, .summary-question, .summary-explanation {
+    padding-left: 0px;
+    padding-right: 22px;
+}
+
+.fb-content .summary-question {
+    padding-right: 0px;
+}
+
+.dashicons-move {
+    left: auto;
+    right: 10px;
+}
+
+.quiz-image-input .image-button {
+    border-right: none;
+    border-left: 1px solid #ddd;
+}
+
+.quiz-image-input .image-popup, .quiz-video-input .video-popup {
+    border-right: 1px solid #ddd;
+    border-left: none;
+}
+
+.quiz-title-answer, .quiz-title-result, .quiz-title-question, .quiz-title-explanation {
+    float: right;
+}
+
+.quiz-actions-answer, .quiz-actions-result, .quiz-actions-question, .quiz-actions-explanation {
+    float: left;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    float: right !important;
+}
+
+.quiz-actions-2 {
+    text-align: left;
+}
+
+.quiz-actions-2 .btn + .btn {
+    margin-left: 0px;
+    margin-right: 4px;
+}
+
+.quiz-actions .btn + .btn {
+    margin-left: 0;
+    margin-right: 4px;
+}
+
+table.quiz_settings input, table.quiz_settings select, table.quiz_settings textarea,
+table.quiz_settings .sp-replacer, .wp-picker-container, table.quiz_settings .toggle, .chosen-container {
+    float: left;
+}
+
+table.quiz_settings .col-md-3 {
+    float: left !important;
+}
+
+.chosen-container-multi .chosen-choices li {
+    float: right;
+}
+
+.chosen-container-multi .chosen-choices li.search-choice {
+    padding: 3px 5px 3px 20px !important;
+}
+
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
+    right: auto !important;
+    left: 3px;
+}
+
+.ui.toggle.checkbox input:checked~.box:after, .ui.toggle.checkbox input:checked~label:after,
+.ui.toggle.checkbox input:checked~.box:after, .ui.toggle.checkbox input:checked~label:after {
+    right: 2.15rem;
+}
+
+.ui.toggle.checkbox input~.box:after, .ui.toggle.checkbox input~label:after,
+.ui.toggle.checkbox input~.box:after, .ui.toggle.checkbox input~label:after {
+    right: -.05rem;
+}
+
+.tipsy-inner {
+    text-align: right;
+}
+
+.close {
+    float: left;
+}
+
+.chosen-container-multi .chosen-choices li {
+    float: right !important;
+}
+
+.chosen-container-multi .chosen-choices li.search-choice {
+    margin: 3px 0px 3px 5px !important;
+}
+
+.chosen-container .chosen-drop {
+    right: -9999px;
+    left: auto !important;
+}
+.chosen-container.chosen-with-drop .chosen-drop {
+    right: 0;
+}

@@ -1,0 +1,92 @@
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.wq_quizCtr .wq_quizProgressBar > span {
+    float: right;
+    text-align: left;
+}
+
+.wq_questionTextCtr {
+    float: right;
+    width: 100%;
+}
+
+.wq_singleAnswerCtr .wq_answerTxtCtr {
+    padding-left: 0;
+    padding-right: 31px;
+    text-align: right;
+    background-position: right center;
+}
+
+.wq_singleResultWrapper .wq_shareCtr button, .wq_quizForceShareCtr button, .wq_questionLogin button {
+    margin: 10px 0px 0 7px
+}
+
+.wq_quizEmailCtr form p:first-child, .wq_quizEmailCtr label {
+    text-align: right;
+}
+
+.col-md-wq-4:first-child, .col-md-wq-4:nth-child(2), .col-md-wq-4:nth-child(5) {
+    float: right;
+}
+
+.col-md-wq-4 {
+    margin-left: 2%;
+    margin-right: 0px;
+}
+
+.col-md-wq-4:last-child {
+    margin-left: 0;
+    float: left;
+}
+
+.col-md-wq-4:last-child {
+    margin-right: 0;
+    float: right;
+}
+
+.wq_IsSwiperResult .resultImageWrapper .indexWrapper {
+    left: auto;
+    right: 0;
+}
+
+.wq_IsSwiperResult .resultContent {
+    padding: 0 20px 0 5px;
+}
+
+.wq_IsSwiperResult .resultUpVote, .wq_IsSwiperResult .resultDownVote {
+    margin-right: 0;
+    margin-left: 14px;
+}
+
+.wq_IsSwiperResult .resultContent i {
+    margin-right: 0;
+    margin-left: 4px;
+}
+
+.wq_IsSwiperResult .userVote {
+    float: right;
+}
+
+.wq_IsFlip .title_container {
+    text-align: right;
+}
+
+.wq_singleResultWrapper .wq_shareCtr button, .wq_quizForceShareCtr button, .wq_questionLogin button {
+    margin: 10px 0px 0 7px;
+}
+
+.wq_singleResultWrapper .wq_shareCtr .wq_shareVK {
+    margin-left: 0;
+}
+
+.wq_questionsCtr .actions {
+    direction: ltr;
+}
+
+.wq_triviaQuizTimerCtr {
+    right: 50px;
+    left: auto;
+}

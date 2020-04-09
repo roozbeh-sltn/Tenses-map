@@ -1,0 +1,45 @@
+#dblclick_qTip {
+	position:fixed;
+	border:1px solid #d6d6d6;
+	color:#666;
+	background:#fff;
+	padding: 0px 8px;
+	display: inline;
+	font-size: 10px;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
+	visibility:hidden;
+	cursor: pointer;
+	z-index:1;
+}
+
+/* THE TRIANGLE
+------------------------------------------------------------------------------------------------------------------------------- */
+
+#dblclick_qTip:before {
+	content:"";
+	position:absolute;
+	bottom:-5px; /* value = - border-top-width - border-bottom-width */
+	left:3px; /* controls horizontal position */
+    border-width:4px 4px 0;
+	border-style:solid;
+    border-color:#d6d6d6 transparent;
+    /* reduce the damage in FF3.0 */
+    display:block; 
+    width:0;
+}
+
+/* creates the smaller  triangle */
+#dblclick_qTip:after {
+	content:"";
+	position:absolute;
+	bottom:-3px; /* value = - border-top-width - border-bottom-width */
+	left:3px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+	border-width:4px 4px 0;
+	border-style:solid;
+	border-color:white transparent;
+    /* reduce the damage in FF3.0 */
+    display:block; 
+    width:0;
+}

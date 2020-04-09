@@ -1,0 +1,167 @@
+
+.bkt_style1
+{
+    background-color: #A4C1F9; 
+    margin: 3px;
+    position: fixed;
+    width: 262px;
+    height: 333px;
+    border: 1px solid black;           
+ } 
+
+.bkt_style1 div 
+ {
+   text-align: left;      
+ }
+ 
+ .bkt_style1 input.textbox,input[type='text'] 
+ {
+    -webkit-border-radius:0px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	border:0px;
+	color: black;
+	font-size:13px;
+	height:20px;
+	padding:0px;
+	width:130px;	
+	text-align: left;
+	margin: 0px;	
+   }
+
+ 
+.bkt_style1 b 
+ {
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: none; 
+    font-size: small;
+    font-family: Arial;
+    text-align: left;
+    color: Black;
+ }
+
+.bkt_style1 a
+ {    
+    color: Blue;
+    text-align: left;    
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+ }
+
+.bkt_style1 i { color: Blue; margin-top: 10px; }
+
+.bkt_style1 span
+{
+    color: green;
+    cursor: pointer;
+    text-decoration: underline;
+    }
+  
+.bkt_style2 
+{
+    text-decoration: none;    
+    text-transform: none; 
+    text-align: left;            
+    font: normal normal normal medium normal arial;
+    color: Maroon;
+  }
+
+.bkt_style2 ul
+{
+    margin: 0px 4px 12px 40px;
+    padding: 0px;
+    outline: 0px;   
+    list-style: disc none inside;    
+}    
+ 
+.bkt_style2 li 
+{    
+  font: normal normal normal small arial; 
+  text-decoration: none;
+  text-transform: none;   
+  text-align: left;
+  color: Black;
+  margin-bottom: 5px;
+ }
+
+.bkt_style2 b 
+{
+    color: Maroon;
+    margin-left: 25px;
+}
+
+.bkt_style2 li b
+{ 
+  color: #D171A7;  
+  margin-left: 0px;  
+}
+
+
+.bkt_custom1
+{
+    color:Black;    
+}
+
+.bkt_custom2
+{
+    color:Maroon;
+    margin-left: 30px;
+}
+
+
+/**
+ * jQuery Simple Dialog 
+ */
+.sd_container{
+ font-family: arial,helvetica,sans-serif;
+ margin:0;
+ padding: 10px;
+ position: absolute;
+ background-color: #fff;
+ border: solid 1px #ccc;
+ text-align:center;
+}
+.sd_header{
+ font-size: 125%;
+ font-weight:bold;
+ margin-bottom: 10px;
+}
+.sd_content{}
+.sd_footer{
+ color: #a0a0a0;
+ margin-top: 10px;
+}
+.sd_overlay{
+ position: absolute;
+ margin:0;
+ padding: 0;
+ top: 0;
+ left: 0;
+ background-color: #222;
+}
+.sd_loading{
+ background: url('indicator.gif') center no-repeat;
+ background-color: #fff;
+ height: 60px;
+ width: 60px;
+}
+.sd_closelabel{
+ position:absolute;
+ width:50px;
+ height:22px;
+ line-height:22px;
+ top:0;
+ left:0;
+ padding:5px;
+ text-align:center;
+ background-color:#ccc;
+}
+.sd_closelabel a {
+ text-decoration:none;
+ color: #222;
+ font-size: 12px;
+ font-weight:bold;
+}
